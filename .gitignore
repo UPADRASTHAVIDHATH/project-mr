@@ -1,0 +1,26 @@
+﻿# Node
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+.env
+venv/
+.venv/
+
+# Archives & Temporary Builder Scripts
+*.zip
+build_batch*.py
+test_here.py
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
